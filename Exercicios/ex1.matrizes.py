@@ -27,3 +27,4 @@ show(aux2)
 print("O resultado é")
 result=multiplyMatrix(aux, b)
 show(result)
+
