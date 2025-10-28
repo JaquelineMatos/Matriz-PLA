@@ -8,8 +8,8 @@ Os exercícios exploram operações fundamentais de álgebra linear, aplicadas e
 
 ## 🔗 Acesse os Exercícios  
 
-- [Exercício 1 – A + (B - Ct) * B](./Exercicios/ex1_matrizes.py)  
-- [Exercício 2 – (B + At) * Ci - (3 * Bt)](./Exercicios/ex2_matrizes.py)  
+- [Exercício 1 – A + (B - Ct) * B](./Exercicios/ex1.matrizes.py)  
+- [Exercício 2 – (B + At) * Ci - (3 * Bt)](./Exercicios/ex2.matrizes.py)  
 
 ---
 
